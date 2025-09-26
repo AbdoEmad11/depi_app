@@ -1,4 +1,4 @@
-# depi_App - Rick and Morty Character Explorer
+# depi_App 
 
 A Flutter app for exploring Rick and Morty characters with authentication and smooth animations.
 
