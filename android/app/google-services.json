@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671680061705",
+    "project_id": "depi-app-b15fc",
+    "storage_bucket": "depi-app-b15fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671680061705:android:3304612a0bf258fcf673d8",
+        "android_client_info": {
+          "package_name": "com.example.depi_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfw_YZc8cXatRA3n8OMS_QiW3BAzRQ4L8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
